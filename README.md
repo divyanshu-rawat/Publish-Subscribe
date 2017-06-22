@@ -12,6 +12,9 @@
 
 ##
 
+
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/divyanshu-rawat)
+
 #### Description 
 * This repository demonstrates use of Publish Subscibe design pattern in Ng Js.
 
